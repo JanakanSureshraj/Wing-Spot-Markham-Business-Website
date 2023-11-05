@@ -1,0 +1,12 @@
+.app{
+    position: relative;
+    overflow-x: clip;
+}
+.app>:nth-child(1){
+    background-image: url("./../public/bg3.png");
+    position: relative;
+}
+.app>:nth-child(2){
+    background-color: rgb(255, 255, 255);
+}
+

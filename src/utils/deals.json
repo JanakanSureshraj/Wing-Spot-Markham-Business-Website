@@ -1,0 +1,45 @@
+[
+    {
+        "name": "Kids Deal",
+        "price": "10.00",
+        "detail": "Wings OR Chicken Fingers + Fries + 1 Drink",
+        "image": "./deals5.jpg"
+    },
+    {
+        "name": "Single Deal",
+        "price": "17.00",
+        "detail": "1LB Wings + 1 Normal Fries + 1 Drink",
+        "image": "./deals7.jpg"
+    },
+    {
+        "name": "WingSpot Deal",
+        "price": "18.00",
+        "detail": "1 LB Wings + 1 Chilli Onion Fries + 1 Drink",
+        "image": "./deals3.jpg"
+    },
+    {
+        "name": "Couples Deal",
+        "price": "32.00",
+        "detail": "2 LBS Wings(1 Flavor) + 1 Fries + 2 Drinks",
+        "image": "./deals2.jpg"
+    },
+    {
+        "name": "Lovers Deal",
+        "price": "50.00",
+        "detail": "3 LBS Wings (2 Flavors) + 1 Fries + 1 Onion Rings + 2 Dippings",
+        "image": "./deals4.jpg"
+    },
+    {
+        "name": "Family Deal",
+        "price": "80.00",
+        "detail": "5 LBS Wings (3 Flavors) + 1 Fries + 1 Onion Rings + 1 Cheese Garlic Bread + 4 Dippings",
+        "image": "./deals6.jpg"
+    },
+    {
+        "name": "Party Deal",
+        "price": "155.00",
+        "detail": "10 LBS Wings (4 Flavors) + 2 Fries + 2 Onion Rings + 2 Cheese Garlic Bread + 6 Dippings",
+        "image": "./deals1.jpg"
+    } 
+  ]
+  

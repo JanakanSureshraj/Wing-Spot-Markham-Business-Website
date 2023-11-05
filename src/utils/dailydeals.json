@@ -1,0 +1,33 @@
+[
+    {
+        "name": "Sunday Special",
+        "price": "12.00",
+        "detail": "1Lb Wings (1 Flavour)",
+        "image": "./specials1.jpg"
+    },
+    {
+        "name": "Monday Special",
+        "price": "6.00",
+        "detail": "1 Chilli Onion Fries, 1 Gar Par Fries, 1 Mexican Fries, 1 Malvern Girls Fries",
+        "image": "./specials2.jpg"
+    },
+    {
+        "name": "Tuesday Special",
+        "price": "26.00",
+        "detail": "2.5 LBS Wings (2 Flavours)",
+        "image": "./specials3.jpg"
+    },
+    {
+        "name": "Wednesday Special",
+        "price": "   15% Off",
+        "detail": "On all Wraps",
+        "image": "./specials4.jpg"
+    },
+    {
+        "name": "Thursday Special",
+        "price": "13.00",
+        "detail": "1 LB Boneless Wings (1 Flavor)",
+        "image": "./specials5.jpg"
+    }
+  ]
+  
