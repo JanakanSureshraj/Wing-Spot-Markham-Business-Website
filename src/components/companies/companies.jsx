@@ -7,7 +7,7 @@ const Companies = () => {
 
 <section className="r-wrapper">
         <div className="paddings innerWidth r-container">
-            <div className="r-head flexColStart">
+            <div className="flexColStart">
                 <span className="orangeText">Accepting Orders Until 12 AM</span>
                 <span className="primaryText">Find Us On</span>
             </div>

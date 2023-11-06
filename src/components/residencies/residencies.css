@@ -6,7 +6,7 @@
     margin-bottom: 2rem;
 }
 .r-card{
-    gap: 0.6rem;
+    gap: 0.4rem;
     padding: 1rem;
     border-radius: 10px;
     max-width: max-content;
@@ -16,17 +16,6 @@
 .r-card>img{
     width: 100%;
     max-width: 15rem;
-}
-.r-card>:nth-child(2){
-    font-size: 1.2rem;
-    font-weight: 600;
-}
-.r-card>:nth-child(3){
-    font-size: 1.5rem;
-}
-.r-card>:nth-child(4){
-    font-size: 0.7rem;
-    width: 15rem;
 }
 .r-card:hover{
     scale: 1.025;
@@ -61,6 +50,7 @@
 .r-buttons>:nth-child(2){
     box-shadow: 0 0 5px 1px #ffa2a2;;
 }
+
 @media(max-width: 640px){
     .r-head{
         align-items: center;

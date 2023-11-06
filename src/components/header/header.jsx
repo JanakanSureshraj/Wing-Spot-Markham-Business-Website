@@ -12,7 +12,7 @@ const Header = () => {
                 
                 <div className="flexCenter h-menu"> 
                         <a href="">Home</a>                       
-                        <a href="">Menu</a>
+                        <a href="https://www.thewingspot.ca/menu-1">Menu</a>
                         <a href="">Contact</a>
                 </div>    
             </div>

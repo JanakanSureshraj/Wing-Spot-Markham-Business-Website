@@ -9,7 +9,7 @@ const Residencies = () => {
   return (
     <section className="r-wrapper">
         <div className="paddings innerWidth r-container">
-            <div className="r-head flexColStart">
+            <div className="flexColStart">
                 <span className="orangeText">Popular From Our Menu</span>
                 <span className="primaryText">Wings, Fries and More!</span>
             </div>
@@ -25,7 +25,7 @@ const Residencies = () => {
                                     <span style={{color: "orange"}}>$</span><span>{card.price}</span>
                                 </span>
                                 <span className="primaryText">{card.name}</span>
-                                <span className="secondaryText">{card.detail}</span>
+                                <span style={{fontSize: "0.8rem"}} className='secondaryText'>{card.detail}</span>
                             </div>
                         </SwiperSlide>
                     ))

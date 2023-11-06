@@ -9,7 +9,7 @@ const Dailydeals = () => {
   return (
     <section className="r-wrapper">
         <div className="paddings innerWidth r-container">
-            <div className="r-head flexColStart">
+            <div className="flexColStart">
                 <span className="orangeText">Daily Specials</span>
                 <span className="primaryText">Any Day, Wing Spot Day!</span>
             </div>
@@ -25,12 +25,15 @@ const Dailydeals = () => {
                                     <span style={{color: "orange"}}>$</span><span>{card.price}</span>
                                 </span>
                                 <span className="primaryText">{card.name}</span>
-                                <span className="secondaryText">{card.detail}</span>
+                                <span style={{fontSize: "0.8rem"}} className='secondaryText'>{card.detail}</span>
                             </div>
                         </SwiperSlide>
                     ))
                 }
             </Swiper>
+            <div className='menuButton'>
+                <a href="https://www.thewingspot.ca/menu-1">CHECK FULL MENU</a>
+            </div>
         </div>
     </section>
   )

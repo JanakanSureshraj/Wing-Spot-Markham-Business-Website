@@ -4,7 +4,7 @@ import Companies from "./components/companies/companies"
 import Residencies from "./components/residencies/residencies";
 import Deals from "./components/deals/deals";
 import Dailydeals from "./components/dailyDeals/dailydeals";
-
+import Contact from "./components/contact/contact"
 /*import Values from "./components/values/values";
 import Contact from "./components/contact/contact"
 import GetStarted from "./components/getstarted/getstarted";
@@ -24,6 +24,7 @@ function App() {
         <Residencies/>
         <Deals/>
         <Dailydeals/>
+        <Contact/>
       </div>
     </div>
   );

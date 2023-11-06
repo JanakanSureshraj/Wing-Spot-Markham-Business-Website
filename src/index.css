@@ -70,13 +70,16 @@ a {
 }                                 
 .secondaryText {
   color: rgb(0, 0, 0);;
-  font-size: 1rem;
   font-family: Georgia, 'Times New Roman';
 }
 .tertiaryText {
   color: rgb(177, 177, 177);
   font-size: 0.8rem;
   padding-right: 1rem;
+}
+.descriptionText{
+  color: rgb(0, 0, 0);
+  font-family: 'Times New Roman', Times, serif;
 }
 .orangeText {
   color: black;
