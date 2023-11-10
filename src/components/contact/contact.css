@@ -1,9 +1,6 @@
 .icon{
     color: rgb(0, 0, 0)
 }
-.c-container{
-    justify-content: space-between;
-}
 .c-container>div{
     flex:1;
 }
@@ -11,14 +8,7 @@
     width: 100%;
 }
 .c-left{
-    gap: 0.5rem;
-}
-.conatactModes{
-    margin-top: 2rem;
-    gap: 1rem;
-}
-.conatactModes .row{
-    gap: n1.5rem;
+    gap: 0rem;
 }
 .mode{
     width: 16rem;
@@ -51,15 +41,22 @@
 .mode .button:hover{
     scale: 0.8;
 }
+.flexCen {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.map {
+    padding: 1rem 0rem 0 1rem;
+}
+
 @media (max-width: 1024px) {
     .c-container{
         flex-direction: column;
     }
-    .c-right{
-        justify-content: right;
-    }
-    .conatactModes{
-        width: 100%;
+    .contactModes{
+        width: 85%;
     }
     .row{
         flex-direction: column;
@@ -75,5 +72,15 @@
     .mode .button{
         font-size: 70%;
     }
-    
+    .flexCen {
+        display:grid;
+        justify-content: left;
+        align-items: left;
+    }
+    .map{
+        padding: 1rem 0rem 0 1rem;
+    }
+    .map{
+        width: 60%;
+    }
 }

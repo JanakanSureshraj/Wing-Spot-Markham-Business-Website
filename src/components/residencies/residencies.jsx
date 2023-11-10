@@ -11,7 +11,7 @@ const Residencies = () => {
         <div className="paddings innerWidth r-container">
             <div className="flexColStart">
                 <span className="orangeText">Popular From Our Menu</span>
-                <span className="primaryText">Wings, Fries and More!</span>
+                <span className="primaryText">Wings, Fries and More</span>
             </div>
 
             <Swiper {...sliderSettings}>

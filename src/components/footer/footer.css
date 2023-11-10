@@ -3,18 +3,34 @@
 }
 .f-left{
     gap: 1rem;
+    padding-bottom: 0.5rem;
+}
+.f-left .secondaryText{
+    padding: 0;
+    color: white;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 .f-menu{
-    gap: 1.5rem;
-    margin-top: 1.5rem;
+    gap: 2rem;
     font-weight: 500;
+    color: white;
 }
-@media (maxo-width: 768px) {
+.f-wrapper{
+    background-color: black;
+}
+@media (max-width: 768px) {
     .f-container{
         justify-content: center;
     }
     .f-container>div{
-        align-items: center!important;
+        align-items: center;
         text-align: center;
+    }
+    .f-left .secondaryText{
+        font-size: 70%;
+    }
+    .f-menu{
+        font-size: 80%;
     }
 }
