@@ -42,7 +42,7 @@ const Contact = () => {
                                 </div>
                                 <div className="flexColStart detail">
                                     <span className="primaryText">Call</span>
-                                    <span className='secondaryText'>077 123 4567</span>
+                                    <span className='secondaryText'>905-471-1191</span>
                                 </div>
                             </div>
                             <div className="flexCenter button">Call Now</div>
@@ -54,11 +54,11 @@ const Contact = () => {
                                     <FaWhatsapp size={25}/>
                                 </div>
                                 <div className="flexColStart detail">
-                                    <span className="primaryText">WhatsApp</span>
-                                    <span className='secondaryText'>(416) 319-1000</span>
+                                    <span className="primaryText">TikTok</span>
+                                    <span className='secondaryText'>@thewingspotmarkha</span>
                                 </div>
                             </div>
-                            <div className="flexCenter button"><a href="https://wa.me/4163191000" target="blank">Chat Now</a></div>
+                            <div className="flexCenter button"><a href="https://www.tiktok.com/@thewingspotmarkha?lang=bn-IN" target="blank">Follow Now</a></div>
                         </div>
                     </div>
 

@@ -28,10 +28,10 @@ const Hero= () => {
 
 
                     <div className="flexColStart hero-des">
-                        <span className="tagLine">Chicken wings and fries tossed and topped with your favorite flavors.<br></br> Now offering daily and special deals!</span>
+                        <span className="tagLine">Chicken wings and fries tossed and topped with your favourite flavours.<br></br> Now offering daily and special deals!</span>
                         <span className="tertiaryText">Pickup:  5694 Highway 7 #5, Markham, ON L3P 1B4</span>
                         <button className="button">
-                                <a href="tel:555-555-5555">Call 555-555-5555</a>
+                                <a href="tel:555-555-5555">Call 905-471-1191</a>
                         </button>
                         
                     </div>
