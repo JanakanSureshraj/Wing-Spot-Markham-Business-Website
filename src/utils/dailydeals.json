@@ -8,7 +8,7 @@
     {
         "name": "Monday Special",
         "price": "6.00",
-        "detail": "1 Chilli Onion Fries, 1 Gar Par Fries, 1 Mexican Fries, 1 Malvern Girls Fries",
+        "detail": "Basket of Fries - 1 of Chilli Onion, Gar Par, Mexican, Malvern Girls",
         "image": "./specials2.jpg"
     },
     {
@@ -26,8 +26,8 @@
     {
         "name": "Thursday Special",
         "price": "13.00",
-        "detail": "1 LB Boneless Wings (1 Flavor)",
-        "image": "./specials5.jpg"
+        "detail": "1 LB Boneless Wings (1 Flavour)",
+        "image": "./boneless.jpg"
     }
   ]
   

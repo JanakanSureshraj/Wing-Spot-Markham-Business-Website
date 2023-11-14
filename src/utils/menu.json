@@ -1,49 +1,49 @@
 [
   {
     "name": "Breaded",
-    "price": "14.99 onwards",
+    "price": "14.00",
     "detail": "120+ Flavours",
     "image": "./breaded.jpg"
   },
   {
     "name": "Non Breaded",
-    "price": "14.99 onwards",
+    "price": "14.00",
     "detail": "120+ Flavours",
     "image": "./nonbreaded.jpg"
   },
   {
     "name": "Boneless",
-    "price": "14.99 onwards",
+    "price": "14.50",
     "detail": "120+ Flavours",
     "image": "./boneless.jpeg"
   },
   {
     "name": "Fries",
-    "price": "9.99 onwards",
-    "detail": "Customize Your Toppings",
+    "price": "7.00",
+    "detail": "Choose Your Toppings",
     "image": "./fries2.jpeg"
   },
   {
     "name": "Quesadillas",
-    "price": "15.00 onwards",
+    "price": "13.00",
     "detail": "10+ Types",
     "image": "./quesadilla1.jpeg"
   },
   {
     "name": "Wraps",
-    "price": "14.00 onwards",
+    "price": "12.00",
     "detail": "20+ Fillings",
     "image": "./wrap.jpeg"
   },
   {
     "name": "Onion Rings",
-    "price": "10.00 onwards",
-    "detail": "Customize Your Toppings",
+    "price": "9.00",
+    "detail": "Choose Your Toppings",
     "image": "./onionRings.jpeg"
   },
   {
     "name": "Desserts",
-    "price": "10.00 onwards",
+    "price": "9.99",
     "detail": "New York Style Cheesecakes, Pudding Cakes and More",
     "image": "./dessert.jpg"
   }
