@@ -4,7 +4,7 @@ import {BsFillChatDotsFill} from "react-icons/bs"
 import {FaWhatsapp} from "react-icons/fa"
 import {FaFacebookF} from "react-icons/fa"
 import {FaInstagram} from "react-icons/fa"
-import "./contact.css"
+import "./contact.css" 
 
 const Contact = () => {
   return (
@@ -13,7 +13,7 @@ const Contact = () => {
             {/*left side */}
             <div className="flexColStart c-left">
                 <span className='orangeText'>Our Contact</span>
-                <span className='primaryText'>Just a Click Away!</span>
+                <span className='primaryText'>Just a Click Away</span>
 
                 <div className="map">   
                     <iframe 
@@ -45,7 +45,7 @@ const Contact = () => {
                                     <span className='secondaryText'>905-471-1191</span>
                                 </div>
                             </div>
-                            <div className="flexCenter button">Call Now</div>
+                            <div className="flexCenter button"><a href="tel:905-471-1191">Call Now</a></div>
                         </div>
 
                         <div className="flexColStart mode">
@@ -96,11 +96,6 @@ const Contact = () => {
         </div>
    </section>
   )
-  window.onload = function() {
-    var iframe = document.getElementById("map");
-    iframe.width = iframe.contentWindow.document.body.scrollWidth;
-    iframe.height = iframe.contentWindow.document.body.scrollHeight;
- }
 }
 
 export default Contact

@@ -1,6 +1,6 @@
 import React from "react";
 import CountUp from "react-countup";
-import {motion} from "framer-motion"
+import {color, motion} from "framer-motion"
 import "./hero.css"
 
 const Hero= () => {
@@ -26,14 +26,12 @@ const Hero= () => {
                         </motion.h1>
                 </div>
 
-
                     <div className="flexColStart hero-des">
                         <span className="tagLine">Chicken wings and fries tossed and topped with your favourite flavours.<br></br> Now offering daily and special deals!</span>
                         <span className="tertiaryText">Pickup:  5694 Highway 7 #5, Markham, ON L3P 1B4</span>
                         <button className="button">
-                                <a href="tel:555-555-5555">Call 905-471-1191</a>
+                                <a className="call" href="tel:905-471-1191">Call 905-471-1191</a>
                         </button>
-                        
                     </div>
                     <div className="flexCenter stats">
                         <div className="flexColStart stat">

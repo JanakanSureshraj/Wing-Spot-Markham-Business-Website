@@ -21,8 +21,8 @@ const Residencies = () => {
                         <SwiperSlide key={i}>
                             <div className="flexColStart r-card">
                                 <img src={card.image} alt="home" />
-                                <span className='secondaryText r-price'>
-                                    <span style={{color: "red"}}>$</span><span>{card.price}</span>
+                                <span className='secondaryText r-price'> 
+                                    <span style={{fontSize: "1rem"}}>Starting From </span><span style={{color: "red"}}>$</span><span>{card.price}</span>
                                 </span>
                                 <span className="primaryText">{card.name}</span>
                                 <span style={{fontSize: "0.8rem"}} className='secondaryText'>{card.detail}</span>

@@ -9,8 +9,12 @@
 }
 .highlight{
     color: rgb(255, 36, 36);
+} 
+.call{
+    font-size: 1.1rem;
+    color: black;
+    font-weight: bold;
 }
-
 /*left side*/
 .hero-left{
     gap: 3rem;
