@@ -16,6 +16,12 @@ const Footer = () => {
             </div>
             <div className="flexColStart f-right">
                 <div className="flexCenter f-menu">
+                    <span> 
+                        <a>
+                            <img src="./halal.jpg" alt="logo" width={55}/>
+                        </a>
+                    </span>                    
+                        
                     <span>DINE-IN</span>
                     <span>TAKEOUT</span>
                     <span>12PM-12AM</span>
