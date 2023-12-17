@@ -6,7 +6,11 @@ const Companies = () => {
     <section className="c-wrapper">
 
 <section className="r-wrapper">
-        <div className="paddings innerWidth r-container">
+        <span className='combos'>
+            <img src="./combo1.jpeg" alt="" width={750}/> 
+            <img src="./combo2.jpeg" alt="" width={750}/>
+        </span>
+        <div className="paddings innerWidth r-container">     
             <div className="flexColStart">
                 <span className="orangeText">Accepting Orders Until 12 AM</span>
                 <span className="primaryText">Find Us On</span>
@@ -23,8 +27,6 @@ const Companies = () => {
             <a href="https://www.skipthedishes.com/the-wing-spot-5694">
                 <img id="companies" src="./company3.png" alt="" />
             </a>
-        
-
         </div>
     </section>
   )

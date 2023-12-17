@@ -7,7 +7,7 @@ const Footer = () => {
         <div className="padding innerWidth flexCenter f-container">
             {/*left side */}
             <div className="flexColStart f-left">
-                <a href="">
+                <a id="flogo" href="">
                     <img src="./logo.jpg" alt="logo" width={60}/>
                 </a>
                 <span className="secondaryText">
@@ -15,21 +15,15 @@ const Footer = () => {
                 </span>
             </div>
             <div className="flexColStart f-right">
-                <div className="flexCenter f-menu">
-                    <span> 
-                        <a>
-                            <img src="./halal.jpg" alt="logo" width={55}/>
-                        </a>
-                    </span>                    
-                        
-                    <span>DINE-IN</span>
-                    <span>TAKEOUT</span>
-                    <span>12PM-12AM</span>
+                <div className="flexCenter f-menu">        
+                    <span id="list">DINE-IN</span>
+                    <span id="list">TAKEOUT</span>
+                    <span id="list">SUN TO WED: 12PM-10PM</span>
+                    <span id="list">THUR TO SAT: 12PM-12AM </span>
                 </div>
-            </div>
+            </div> 
         </div>
     </section>
   )
 }
-
 export default Footer

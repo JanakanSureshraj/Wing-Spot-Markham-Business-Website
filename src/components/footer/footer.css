@@ -28,9 +28,13 @@
         text-align: center;
     }
     .f-left .secondaryText{
-        font-size: 70%;
+        font-size: 60%;
     }
     .f-menu{
-        font-size: 80%;
+        font-size: 65%;
+        gap: 0.5rem;
+    }
+    #list{
+        padding: 0;
     }
 }
