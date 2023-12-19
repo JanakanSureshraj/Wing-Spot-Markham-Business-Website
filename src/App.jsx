@@ -6,10 +6,7 @@ import Deals from "./components/deals/deals";
 import Dailydeals from "./components/dailyDeals/dailydeals";
 import Contact from "./components/contact/contact"
 import Footer from "./components/footer/footer";
-/*import Values from "./components/values/values";
-import Contact from "./components/contact/contact"
-import GetStarted from "./components/getstarted/getstarted";
-import Footer from "./components/footer/footer";*/
+
 import "./App.css"
 
 function App() {
