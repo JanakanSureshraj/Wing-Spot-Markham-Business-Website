@@ -32,7 +32,7 @@ const Dailydeals = () => {
                 }
             </Swiper>
             <div className='menuButton'>
-                <a href="https://www.thewingspot.ca/menu-1">CHECK FULL MENU</a>
+                <a href="https://gosnappy.io/owa/snappy/detail/G9623/9623/">CHECK FULL MENU</a>
             </div>
         </div>
     </section>

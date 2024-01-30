@@ -1,7 +1,6 @@
 import React from 'react'
 import {MdCall} from "react-icons/md"
-import {BsFillChatDotsFill} from "react-icons/bs"
-import {FaWhatsapp} from "react-icons/fa"
+import {FaTiktok} from "react-icons/fa"
 import {FaFacebookF} from "react-icons/fa"
 import {FaInstagram} from "react-icons/fa"
 import "./contact.css" 
@@ -51,14 +50,14 @@ const Contact = () => {
                         <div className="flexColStart mode">
                             <div className="flexStart">
                                 <div className="flexCenter icon">
-                                    <FaWhatsapp size={25}/>
+                                    <FaTiktok size={25}/>
                                 </div>
                                 <div className="flexColStart detail">
                                     <span className="primaryText">TikTok</span>
                                     <span className='secondaryText'>@thewingspotmarkha</span>
                                 </div>
                             </div>
-                            <div className="flexCenter button"><a href="https://www.tiktok.com/@thewingspotmarkha?lang=bn-IN" target="blank">Follow Now</a></div>
+                            <div className="flexCenter button"><a href="https://www.tiktok.com/@thewingspotmarkha" target="blank">Follow Now</a></div>
                         </div>
                     </div>
 

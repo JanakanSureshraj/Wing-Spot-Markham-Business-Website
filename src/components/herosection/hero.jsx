@@ -32,6 +32,10 @@ const Hero= () => {
                         <button className="button">
                                 <a className="call" href="tel:905-471-1191">Call 905-471-1191</a>
                         </button>
+                        <br/>
+                        <button className="button">
+                                <a className="call" href="https://gosnappy.io/owa/snappy/detail/G9623/9623/m/menu_440">Order Online</a>
+                        </button>
                     </div>
                     <div className="flexCenter stats">
                         <div className="flexColStart stat">

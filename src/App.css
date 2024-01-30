@@ -3,7 +3,7 @@
     overflow-x: clip;
 }
 .app>:nth-child(1){
-    background-image: url("./../public/bg3.png");
+    background-image: url("./../public/bg.png");
     position: relative;
 }
 .app>:nth-child(2){

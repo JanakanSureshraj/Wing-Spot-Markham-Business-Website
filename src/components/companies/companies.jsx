@@ -7,8 +7,8 @@ const Companies = () => {
 
 <section className="r-wrapper">
         <span className='combos'>
-            <img src="./combo1.jpeg" alt="" width={750}/> 
-            <img src="./combo2.jpeg" alt="" width={750}/>
+            <img id="combo1" src="./combo1.jpeg" alt="" width={750}/> 
+            <img id="combo2" src="./combo2.jpeg" alt="" width={750}/>
         </span>
         <div className="paddings innerWidth r-container">     
             <div className="flexColStart">

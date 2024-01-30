@@ -12,12 +12,12 @@
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 .f-menu{
-    gap: 2rem;
-    font-weight: 500;
+    gap: 1rem;
+    font-weight: 200;
     color: white;
 }
 .f-wrapper{
-    background-color: black;
+    background-color: rgb(0, 0, 0);
 }
 @media (max-width: 768px) {
     .f-container{
@@ -28,11 +28,12 @@
         text-align: center;
     }
     .f-left .secondaryText{
-        font-size: 60%;
+        font-size: 70%;
     }
     .f-menu{
-        font-size: 70%;
-        gap: 0.5rem;
+        font-size: 90%;
+        gap: 1rem;
+        padding-bottom: 1.3rem;
     }
     #list{
         padding: 0;
