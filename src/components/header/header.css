@@ -9,8 +9,9 @@
     color: var(--secondary);
 }
 .h-menu{
-    gap: 2rem;
+    gap: 1rem;
     padding-bottom: 0.5rem;
+    font-size: 0.9rem;
 }
 .h-menu a:hover{
     cursor: pointer;
