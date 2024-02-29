@@ -1,0 +1,4 @@
+npm run build
+builds for production and creates a dist file. 
+zip the dist file and upload to cpanel. 
+extract files from the dist.zip in the path /public_html/
