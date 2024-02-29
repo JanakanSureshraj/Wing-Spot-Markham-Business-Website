@@ -27,7 +27,7 @@ function App() {
         <meta name="description" content="Chicken wings restaurant in Markham, Ontario. Known for wings, wraps, chilli onion fries and more!" />
         <meta name="keywords" content="chicken wings, fries, restaurant, Markham, Ontario" />
         <meta property="og:title" content="The Wing Spot Markham" />
-        <meta property="og:description" content="Chicken wings restaurant in Markham, Ontario. Known for wings, wraps, chilli onion fries and more!" />
+        <meta property="og:description" content="Chicken wings restaurant in Markham, Ontario. Known for wings, wraps, chilli onion fries and more! SINCE 2022. 100% Canadian Chicken. Halal hand-slaughtered meat." />
         <meta property="og:image" content={ogImage} />
         <meta property="og:url" content="https://www.thewingspotmarkham.com/" />
         <meta property="og:type" content="website" />

@@ -6,6 +6,9 @@ const Companies = () => {
     <section className="c-wrapper">
 
 <section className="r-wrapper">
+        <div className='flexCenter'>
+            <span className="orangeText">100% CANADIAN CHICKEN</span>
+        </div>
         <span className='combos'>
             <img id="combo1" src="./combo1.jpeg" alt="" width={750}/> 
             <img id="combo2" src="./combo2.jpeg" alt="" width={750}/>
